@@ -8,7 +8,9 @@
 # @FileName : audio_split.py
 # @Software : Python3.6;PyCharm;Windows10
 # @Hardware : Intel Core i7-4712MQ
-# @Version  : V4.0: 2020/5/11
+# @Version  : V4.1: 2020/5/26
+#             1. acoustic_feature.py修复若干bug
+#             V4.0: 2020/5/11
 #             1. 升级voice_activity_detection.py为acoustic_feature.py
 #             V3.0: 2020/4/18
 #             1. 对分割后的语音再进行采用端点检测方法进行分割
